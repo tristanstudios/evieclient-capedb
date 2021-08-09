@@ -15,5 +15,5 @@ Not at the moment, idk if it will ever be but atm it's a private repo on my main
 
 ### Goals
 
- - [ ] Pull cape designs via UUID's
+ - [x] Pull cape designs via UUID's
  - [ ] Make a webapp or somesort of API to manage the repo, so I can type a UUID in and choose a cape image for it to rename the cape image to the UUID and put it in the UUID folder on the repo
